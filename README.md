@@ -12,7 +12,7 @@ Devops tópicos com códigos e artigos no meu blog https://medium.com/@fabio.jdl
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform | [link](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [link](https://deepnote.com/launch?url=https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/faker.ipynb) 
+| Event Trigger AWS Terraform | [link](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [link](https://github.com/binhojulix/devops/tree/master/Infraestrutura%20como%20C%C3%B3digo) 
 
 
 
