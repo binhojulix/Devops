@@ -5,15 +5,10 @@ Devops tópicos com códigos e artigos no meu blog https://medium.com/@fabio.jdl
 
 
 # Conteúdo
-1.  [Infraestrutura como código](#Infraestrutura-como-código)
-2. [Cursos de Builds e Controle de versão](#Cursos-de-Builds-e-Controle-de-versao)
+
+1. [Cursos de Builds e Controle de versão](#Cursos-de-Builds-e-Controle-de-versao)
 
 
-# Infraestrutura como código
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/devops/tree/master/Infraestrutura%20como%20C%C3%B3digo) 
 
 
 # Cursos de Builds e Controle de versão
