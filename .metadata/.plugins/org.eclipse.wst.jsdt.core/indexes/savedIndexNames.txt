@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\Workspace\portfolio\Devops\Devops-Cursos-de-Builds-e-Controle-de-vers-o\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1822780815.index
+2765051222.index
+1983851250.index
+1378184732.index
